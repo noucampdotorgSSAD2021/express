@@ -2,22 +2,9 @@
 
 ## Clone the Remote Repository
 
-This will copy some ``express`` program files to your ``htdocs`` folder.  Pick one of the following two ways of downloading the repository.
+This will copy some ``express`` program files to your ``htdocs`` folder.  
 
-### Clone by downloading ZIP file
-Download [this link](https://github.com/noucampdotorgSSAD2021/express/archive/refs/heads/master.zip).  Ensure you rename the folder downloaded as ``express`` and copy this folder into your XAMPP ``htdocs`` folder.
-
-### Clone by using git
-
-Type these commands into your *Git Bash* client:
-
-	```
-	$ cd /<DRIVE>/xampp/htdocs   
-	$ git clone https://github.com/noucampdotorgSSAD2021/express.git
-	$ cd express
-	$ dir or ls
-
-	```
+Go to [this link](https://github.com/barcaxi/ssad2022) and download the repository ZIP file.  Copy the folder ``express`` into your XAMPP ``htdocs`` folder.
 
 Check your ``htdocs`` folder.  You should have a new folder called ``express`` with some files in it.
 
